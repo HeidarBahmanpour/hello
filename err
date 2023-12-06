@@ -1,0 +1,4 @@
+import sys 
+
+variable = 244
+print(sys.getsizeof(variable)) # 24
